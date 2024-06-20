@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SantanderBootcampApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SantanderBootcampApplication.class, args);
 	}
 
